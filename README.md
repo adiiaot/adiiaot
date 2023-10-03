@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayo Deji (adiiaot)</h1>
 <h3 align="center">A SOFTWARE DEVELOPER || CYBERSECURITY ENTHUSIAST</h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
-- 📝 I regularly write articles on [https://medium.com/@adiiaot](https://medium.com/@adiiaot)
+- 📝 I regularly write articles on [https://medium.com/@adiiaot]
 
 - 💬 Ask me about **WEBDEVELOPMENT, CYBERSECURITY**
 
 - 📫 How to reach me **Adiiaot11@gmail.com**
 
-- 📄 Connect with ME [https://linktr.ee/adiiaot](https://linktr.ee/adiiaot)
+- 📄 Connect with ME (https://linktr.ee/adiiaot)
 
 <p align="left">
 <a href="https://instagram.com/adii_aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii_aot" height="30" width="40" /></a>
