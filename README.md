@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayo Deji (adiiaot)</h1>
+<h1 align="center">Hi 👋, I'm Oluwadare Taye Ayo (A.O.T Ayo)</h1>
 <h3 align="center">A SOFTWARE DEVELOPER || CYBERSECURITY ENTHUSIAST</h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
 - 📝 I regularly write articles on [https://medium.com/@adiiaot]
@@ -12,9 +12,7 @@
 - PORTFOLIO WEBSITE https://adiiaot.netlify.app/
 
 <p align="left">
-<a href="https://instagram.com/adii_aot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adii_aot" height="30" width="40" /></a>
 <a href="https://medium.com/@adiiaot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adiiaot" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/adiidevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adiidevs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
