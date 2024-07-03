@@ -1,9 +1,9 @@
 <h1 align="center">Ohayo! Oluwadare Taye Ayo (A.O.T Ayo)</h1>
-<h3 align="center">A SOFTWARE\BLOCKCHAIN ENGINEER || CYBERSEC SPECIALIST</h3>
+<h3 align="center">A SOFTWARE\BLOCKCHAIN ENGINEER || UI Designer</h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
 - 📝 I regularly write articles on [https://medium.com/@aotayo]
 
-- 💬 Ask me about **SOFTWARE, AI & BLOCKCHAIN DEVELOPMENT, CYBERSECURITY**
+- 💬 Ask me about **SOFTWARE, AI & BLOCKCHAIN DEVELOPMENT**
 
 - 📫 How to reach me **Adiiaot11@gmail.com**
 
