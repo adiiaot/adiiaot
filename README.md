@@ -1,15 +1,12 @@
-<h1 align="center">Ohayo! Oluwadare Taye Ayo (A.O.T Ayo)</h1>
-<h3 align="center">A SOFTWARE\BLOCKCHAIN ENGINEER || UI Designer</h3>
+<h1 align="center">GM I'm Oluwadare Taye Ayo</h1>
+<h3 align="center">A SOFTWARE ENGINEER ~ Web/UI Designer</h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
-- 📝 I regularly write articles on [https://medium.com/@aotayo]
-
-- 💬 Ask me about **SOFTWARE, AI & BLOCKCHAIN DEVELOPMENT**
 
 - 📫 How to reach me **Adiiaot11@gmail.com**
 
 - 📄 Connect with ME (https://linktr.ee/adiiaot)
 
-- PORTFOLIO WEBSITE https://adiiaot.netlify.app/
+- PORTFOLIO WEBSITE ~ Under Maintenance!
 
 <p align="left">
 <a href="https://medium.com/@adiiaot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adiiaot" height="30" width="40" /></a>
