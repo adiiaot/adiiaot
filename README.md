@@ -1,8 +1,8 @@
-<h1 align="center">GM I'm Oluwadare Taye Ayo</h1>
-<h3 align="center">A SOFTWARE ENGINEER ~ Web/UI Designer</h3>
+<h1 align="center">GM I'm AOT</h1>
+<h3 align="center">A SOFTWARE ENGINEER ~ PROJECT MANAGER </h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
 
-- 📫 How to reach me **Adiiaot11@gmail.com**
+- 📫 How to reach me **Aotayodm34@gmail.com**
 
 - 📄 Connect with ME (https://linktr.ee/adiiaot)
 
