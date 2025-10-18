@@ -1,7 +1,6 @@
 <h1 align="center">GM I'm ∆OT </h1>
 <h3 align="center">Developer Advocate • Project Manager • Community Builder• CT Quant
 </h3>
-<img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
 
 <p> I help Web3 projects scale from ideation to adoption by combining strategic growth frameworks with hands-on technical execution.
 
