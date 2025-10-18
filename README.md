@@ -1,12 +1,73 @@
-<h1 align="center">GM I'm AOT</h1>
-<h3 align="center">A SOFTWARE ENGINEER ~ PROJECT MANAGER </h3>
+<h1 align="center">GM I'm ∆OT </h1>
+<h3 align="center">Developer Advocate • Project Manager • Community Builder• CT Quant
+</h3>
 <img src="https://th.bing.com/th/id/OIP.WHPVLZ-cBUZrn3WafJBh_QHaFX?w=289&h=209&c=7&r=0&o=5&pid=1.7"/>
+
+<p> I help Web3 projects scale from ideation to adoption by combining strategic growth frameworks with hands-on technical execution.
+
+**What I Offer**
+🔹 **Strategic Leadership**
+
+Go-to-market and community strategies for early-stage projects
+
+Product planning, documentation, and milestone tracking
+
+Growth coordination from Testnet to Mainnet
+
+
+🔹 **Technical Execution**
+
+UI/UX design
+
+Landing page and dApp development
+
+Smart contract and NFT integration guidance
+
+
+🔹 **Community Growth**
+
+Educational initiatives (technical writing, mentorships, workshops)
+
+Ecosystem building and DAO engagement frameworks
+
+
+**Current Roles**
+
+Founder @∆OT Network™: Decentralized mentorship hub for Web3 builders
+
+Project Manager / KOL: Contributing to 10+ Testnet and Mainnet projects
+
+Moderator: Supporting ecosystems through strategic coordination and content
+
+
+**Why Work With Me?**
+
+Hybrid Skillset: I bridge strategy, design, and code — aligning vision with execution.
+
+Ecosystem Insider: Deep ties across L1s, Testnets, and builder communities.
+
+Execution-Driven: I focus on clarity, structure, and scalable results.
+
+
+Let’s Build What’s Next.
+📩 **DM me for:**
+
+Strategic advisory or project audits
+
+Landing page / dApp collaborations
+
+Ambassador or consulting offers
+
+
+**Connect with me:**
+X: @Aot_ayo
+TG: @aotayo11 / @aotayo
+📧 aotayom34@gmail.com
+</p>
 
 - 📫 How to reach me **Aotayodm34@gmail.com**
 
-- 📄 Connect with ME (https://linktr.ee/adiiaot)
-
-- PORTFOLIO WEBSITE ~ Under Maintenance!
+- PORTFOLIO WEBSITE ~ Under Maintenance! *My Presence Online is my portfolio for now*
 
 <p align="left">
 <a href="https://medium.com/@adiiaot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adiiaot" height="30" width="40" /></a>
