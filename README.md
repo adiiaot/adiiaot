@@ -1,5 +1,5 @@
 <h1 align="center">GM I'm ∆OT </h1>
-<h3 align="center">Developer Advocate • Project Manager • Community Builder• CT Quant
+<h3 align="center">Developer Advocate • Project Manager • Blockchain Dev • CT Quant
 </h3>
 
 <p> I help Web3 projects scale from ideation to adoption by combining strategic growth frameworks with hands-on technical execution.
