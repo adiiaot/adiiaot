@@ -1,5 +1,5 @@
 <h1 align="center">GM I'm ∆OT </h1>
-<h3 align="center">Developer Advocate • Project Manager • Blockchain Dev • CT Quant
+<h3 align="center">Developer Advocate • Project Manager • Hybrid Developer (Mobile/Web/AI) • CT Quant
 </h3>
 
 <p> I help Web3 projects scale from ideation to adoption by combining strategic growth frameworks with hands-on technical execution.
@@ -16,9 +16,11 @@ Growth coordination from Testnet to Mainnet
 
 🔹 **Technical Execution**
 
+Cross Platform Mobile Development
+
 UI/UX design
 
-Landing page and dApp development
+Landing page and Web App development
 
 Smart contract and NFT integration guidance
 
@@ -32,11 +34,11 @@ Ecosystem building and DAO engagement frameworks
 
 **Current Roles**
 
-Founder @∆OT Network™: Decentralized mentorship hub for Web3 builders
+Head of Operations / Project Manager @Trivian-technologies: Managing an AI governance middleware from MVP to B2B PoC
 
-Project Manager / KOL: Contributing to 10+ Testnet and Mainnet projects
+Founder @ ∆OT Network™: Decentralized mentorship hub for Web3 builders
 
-Moderator: Supporting ecosystems through strategic coordination and content
+Contract Developer @ BigCut LLC: Building Cross platform native mobile apps for projects
 
 
 **Why Work With Me?**
@@ -53,7 +55,7 @@ Let’s Build What’s Next.
 
 Strategic advisory or project audits
 
-Landing page / dApp collaborations
+Mobile, Web and AI Development offers and collaborations
 
 Ambassador or consulting offers
 
@@ -66,7 +68,7 @@ TG: @aotayo11 / @aotayo
 
 - 📫 How to reach me **Aotayodm34@gmail.com**
 
-- PORTFOLIO WEBSITE ~ Under Maintenance! *My Presence Online is my portfolio for now*
+- PORTFOLIO WEBSITE ~ My Linkedin is worth taking a look at.... https://www.linkedin.com/in/aotayo/
 
 <p align="left">
 <a href="https://medium.com/@adiiaot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@adiiaot" height="30" width="40" /></a>
