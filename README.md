@@ -1,10 +1,8 @@
-```
 <h1 align="center">GM, I'm ∆OT</h1>
 
 <h3 align="center">
 Developer Advocate • Project Manager • Hybrid Developer (Mobile / Web / AI) • CT Quant
 </h3>
-```
 
 ---
 
