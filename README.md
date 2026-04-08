@@ -65,10 +65,11 @@ I help Web3 projects scale from ideation to adoption by combining **strategic gr
 
 ### 🌐 Connect
 
+* **LinkedIn:** [https://www.linkedin.com/in/aotayo](https://www.linkedin.com/in/aotayo)
 * **X:** [https://x.com/Aot_ayo](https://x.com/Aot_ayo)
 * **Telegram:** [https://t.me/aot_w3b](https://t.me/aotayo)
 * **Email:** [aotayom34@gmail.com](mailto:aotayom34@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/aotayo](https://www.linkedin.com/in/aotayo)
+
 
 ---
 
