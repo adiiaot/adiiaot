@@ -36,13 +36,10 @@ I help Web3 projects scale from ideation to adoption by combining **strategic gr
 
 ### 🧩 Current Roles
 
-* **Head of Operations / Project Manager — Trivian Technologies**
+* **Head of Operations / Technical Project Manager — Trivian Technologies**
   Leading an AI governance middleware from MVP → B2B PoC
 
-* **Founder — ∆OT Network™**
-  Decentralized mentorship hub for Web3 builders
-
-* **Contract Developer — BigCut LLC**
+* **Product Engineer (Mobile - Web - AI) - AOT Network**
   Building cross-platform mobile applications
 
 ---
