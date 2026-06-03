@@ -36,11 +36,8 @@ I help Web3 projects scale from ideation to adoption by combining **strategic gr
 
 ### 🧩 Current Roles
 
-* **Head of Operations / Technical Project Manager — Trivian Technologies**
-  Leading an AI governance middleware from MVP → B2B PoC
-
 * **Product Engineer (Mobile - Web - AI) - AOT Network**
-  Building cross-platform mobile applications
+  Building cross-platform mobile applications and functional websites
 
 ---
 
