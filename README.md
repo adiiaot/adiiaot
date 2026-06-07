@@ -1,14 +1,14 @@
 <h1 align="center">GM, I'm ∆OT</h1>
 
 <h3 align="center">
-Developer Advocate • Project Manager • Hybrid Developer (Mobile / Web / AI) • CT Quant
+Product Engineer (Mobile / Web / AI) • CT Quant
 </h3>
 
 ---
 
 ### 🧠 Overview
 
-I help Web3 projects scale from ideation to adoption by combining **strategic growth frameworks** with **hands-on technical execution**.
+I help startups and projects scale from ideation to adoption by combining **strategic product planning** with **hands-on technical execution**.
 
 ---
 
@@ -37,7 +37,7 @@ I help Web3 projects scale from ideation to adoption by combining **strategic gr
 ### 🧩 Current Roles
 
 * **Product Engineer (Mobile - Web - AI) - AOT Network**
-  Building cross-platform mobile applications and functional websites
+  Building cross-platform mobile applications and functional websites for startups
 
 ---
 
