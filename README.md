@@ -8,43 +8,60 @@ Product Engineer (Mobile / Web / AI) • CT Quant
 
 ### 🧠 Overview
 
-I help startups and projects scale from ideation to adoption by combining **strategic product planning** with **hands-on technical execution**.
+I’m a Cross-Asset Quant and Product Engineer building and scaling L2 Signals, an intraday trading system designed to bring systematic trading infrastructure to retail traders.
+
+Alongside trading systems, I build software products that turn complex workflows into practical, scalable systems.
+
+My work sits at the intersection of product engineering, financial markets, automation, AI, and trading infrastructure.
 
 ---
 
-### ⚙️ What I Do
+### ⚙️ What I Build
 
-#### 🔹 Strategic Leadership
+### Trading & Financial Systems
 
-* Go-to-market & community strategy (0 → 1 → scale)
-* Product planning, documentation, and milestone tracking
-* Testnet → Mainnet growth coordination
+* Systematic and algorithmic trading infrastructure
+* Intraday trading systems
+* Automated workflows for financial markets
+* Data-driven tools for traders
 
-#### 🔹 Technical Execution
+### Product Engineering
 
-* Cross-platform mobile development
-* UI/UX design
-* Landing pages & web applications
-* Smart contract & NFT integration guidance
+* Full-stack web applications
+* Cross-platform mobile applications
+* Backend systems, APIs, databases, and real-time services
+* AI-powered products and LLM integrations
+* Automation and internal tooling
 
-#### 🔹 Community & Ecosystem Growth
+### Product & Strategic Execution
 
-* Technical writing, mentorships, workshops
-* DAO coordination & ecosystem expansion frameworks
+* Product strategy and planning
+* MVP → production execution
+* Technical documentation and systems design
+* Go-to-market and community strategy
+* Building scalable delivery workflows
+
+I use modern AI models as part of my development workflow to prototype, build, test, and iterate faster — while still focusing on architecture, data, user experience, reliability, and long-term scalability.
+
+I’m currently focused on building systems for financial markets, including automated trading infrastructure and L2 Signals, my own systematic trading infrastructure project.
+
+My strongest skill isn’t a particular framework or programming language.
+
+It’s taking a complex problem, breaking it down into its underlying systems, and turning those systems into something that actually works.
 
 ---
 
 ### 🧩 Current Roles
 
-* **Product Engineer (Mobile - Web - AI) - AOT Network**
-  Building cross-platform mobile applications and functional websites for startups
+* **Founder & Product Engineer** @ L2 Signals
+  Building systematic trading infra & cross-platform applications and functional websites for startups and firms.
 
 ---
 
 ### 🚀 Why Work With Me
 
 * **Hybrid Skillset** — Strategy + Design + Code (execution-focused)
-* **Ecosystem Leverage** — Deep ties across L1s, testnets, and builder networks
+* **Ecosystem Leverage** — Deep ties across financial markets, AI and builder networks
 * **Scalable Thinking** — Systems built for growth, not short-term wins
 
 ---
@@ -52,8 +69,8 @@ I help startups and projects scale from ideation to adoption by combining **stra
 ### 📩 Opportunities
 
 * Strategic advisory / project audits
-* Mobile, Web, and AI development collaborations
-* Ambassador / consulting roles
+* Mobile, Web, and Trading development collaborations
+* Sponsorship / Partnership roles
 
 ---
 
@@ -61,7 +78,7 @@ I help startups and projects scale from ideation to adoption by combining **stra
 
 * **LinkedIn:** [https://www.linkedin.com/in/aotayo](https://www.linkedin.com/in/aotayo)
 * **X:** [https://x.com/Aot_ayo](https://x.com/Aot_ayo)
-* **Telegram:** [https://t.me/aot_w3b](https://t.me/aotayo)
+* **Telegram:** [https://t.me/aotayo](https://t.me/aotayo)
 * **Email:** [aotayom34@gmail.com](mailto:aotayom34@gmail.com)
 
 
