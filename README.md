@@ -54,8 +54,8 @@ It’s taking a complex problem, breaking it down into its underlying systems, a
 ### 🧩 Current Roles
 
 * **Founder & Product Engineer** @ L2 Signals
-  Building systematic trading infra & cross-platform applications and functional websites for startups and firms.
-
+* Building systematic trading infra & cross-platform applications and functional websites for startups and firms.
+* X: https://x.com/l2signals
 ---
 
 ### 🚀 Why Work With Me
