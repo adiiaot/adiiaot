@@ -1,7 +1,7 @@
 <h1 align="center">GM, I'm ∆OT</h1>
 
 <h3 align="center">
-Product Engineer (Mobile / Web / AI) • CT Quant
+Product Engineer - Cross Asset Quant
 </h3>
 
 ---
